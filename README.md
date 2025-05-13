@@ -1,6 +1,6 @@
 <h1 align="center">Simple Portfolio Website Template</h1>
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js" />
 </p>
 <br/>
 
